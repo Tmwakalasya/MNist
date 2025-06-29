@@ -31,7 +31,7 @@ MNist/
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Tmwakalasya/MNist
 cd MNist
 ```
 
